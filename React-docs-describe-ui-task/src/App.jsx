@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>hellow world 2</div>
+      <div className="text-5xl text-red-600">hellow world 2</div>
     </>
   );
 }
