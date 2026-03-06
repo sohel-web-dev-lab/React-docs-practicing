@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>hellow world</div>
+      <div>hellow world 2</div>
     </>
   );
 }
